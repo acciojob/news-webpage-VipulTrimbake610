@@ -9,9 +9,22 @@ main{
 	padding-left:20px;
 	padding-right:20px;
 }
+ul li{
+	background-color:;
+	padding:;
+	width:;
+}
+.latest-news-section{
+	
+}
+.pictorial-news-section{
+	text-align:center;
+}
 section{
 	border-radius:15px;
 	padding:20px;
+	width:;
+	text-align:;
 	background-color:white;
 	color:black;
 	display:inline-block;
